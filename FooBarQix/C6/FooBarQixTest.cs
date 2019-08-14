@@ -6,7 +6,7 @@
     using System.Text;
 
     [TestFixture]
-    class FooBarQixTest
+    internal class FooBarQixTest
     {
         private FooBarQix _sut;
 
@@ -67,6 +67,5 @@
             // Assert
             Assert.AreEqual(expected, actual);
         }
-
     }
 }

@@ -14,7 +14,7 @@
 |                          |     2 |     2     |                                            |
 |                          |     4 |     4     |                                            |
 | Divisible by 3           |     6 |    Foo    |                                            |
-| Divisible by 5           |     5 |    Bar    |                                            |
+| Divisible by 5           |    10 |    Bar    |                                            |
 | Divisible by 7           |    14 |    Qix    |                                            |
 | Replace digit 3, 5, 7    |     3 |  FooFoo   | divisible by 3, contains 3                 |
 |                          |     5 |  BarBar   | divisible by 5, contains 5                 |

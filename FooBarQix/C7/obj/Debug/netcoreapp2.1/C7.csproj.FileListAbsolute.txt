@@ -1,0 +1,14 @@
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\bin\Debug\netcoreapp2.1\C7.deps.json
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\bin\Debug\netcoreapp2.1\C7.runtimeconfig.json
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\bin\Debug\netcoreapp2.1\C7.runtimeconfig.dev.json
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\bin\Debug\netcoreapp2.1\C7.dll
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\obj\Debug\netcoreapp2.1\C7.csprojAssemblyReference.cache
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\obj\Debug\netcoreapp2.1\C7.csproj.CoreCompileInputs.cache
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\obj\Debug\netcoreapp2.1\C7.AssemblyInfoInputs.cache
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\obj\Debug\netcoreapp2.1\C7.AssemblyInfo.cs
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\bin\Debug\netcoreapp2.1\C7.pdb
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\obj\Debug\netcoreapp2.1\C7.dll
+E:\Chatchai\#Learn\github.com\Kata-TDD\FooBarQix\C7\obj\Debug\netcoreapp2.1\C7.pdb

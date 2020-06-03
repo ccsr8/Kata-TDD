@@ -55,3 +55,6 @@ FooBarQix/C6/bin
 FooBarQix/C6/obj
 FooBarQix/C6/Properties/PublishProfiles
 *.user
+FizzBuzz/C07/.vs
+FizzBuzz/C07/obj
+FizzBuzz/C07/bin
